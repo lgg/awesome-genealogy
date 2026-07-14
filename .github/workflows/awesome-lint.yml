@@ -1,0 +1,27 @@
+name: Awesome Lint
+
+on:
+  pull_request:
+  push:
+    branches:
+      - master
+
+jobs:
+  awesome-lint:
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Checkout
+        uses: actions/checkout@v4
+
+      - name: Run awesome-list content lint
+        shell: bash
+        run: |
+          cp README.md /tmp/README.md
+          trap 'cp /tmp/README.md README.md' EXIT
+
+          # Repository metadata is managed separately. In particular, a new
+          # LICENSE file is not visible through GitHub's repository API until
+          # the pull request containing it has been merged.
+          sed -i '1i<!--lint disable awesome-github-->' README.md
+          npx awesome-lint
