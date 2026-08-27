@@ -39,6 +39,7 @@ Genealogy combines historical research, source evaluation, personal data, and lo
 - [HuMo-genealogy](https://humo-gen.com/) - Self-hosted PHP genealogy program for publishing and managing family trees with multilingual output and GEDCOM import.
 - [Liberu Genealogy](https://github.com/liberu-genealogy/genealogy-laravel) - Laravel-based genealogy platform for managing people, families, events, sources, places, and GEDCOM data.
 - [Silsilah](https://github.com/nafiesl/silsilah) - Laravel family-tree application designed for recording and sharing extended family relationships.
+- [stammgit](https://github.com/kstucki/stammgit) - Git-native family tree application storing data as plain YAML in a Git repository, with local-first browser editing, GEDCOM import and export, and source document management.
 - [The Next Generation of Genealogy Sitebuilding](https://www.tngsitebuilding.com/) - Commercial self-hosted PHP and MySQL genealogy platform for publishing trees, media, sources, reports, maps, and DNA test information.
 - [webtrees](https://github.com/fisharebest/webtrees) - Mature online collaborative genealogy application with full editing, privacy controls, media management, modules, and GEDCOM support.
 
