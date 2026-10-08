@@ -63,6 +63,7 @@ Genealogy combines historical research, source evaluation, personal data, and lo
 - [KinGraph](https://github.com/rstacruz/kingraph) - Small command-line tool that converts a concise YAML family description into SVG, PNG, or Graphviz output.
 - [Topola Genealogy Viewer](https://github.com/PeWu/topola-viewer) - Privacy-friendly interactive GEDCOM and GEDZIP viewer with multiple chart modes and PDF, PNG, and SVG export.
 - [WebTreePrint](https://webtreeprint.com/) - Browser service for generating large printable family-tree charts from GEDCOM files.
+- [HexMobius Family Charts](https://familyatlas.hexmobius.com/) - Browser tool that turns a GEDCOM file into a printable ancestor chart, A3/A2 poster PDF, or overlapping A4 print sheets; records stay on the device. Free fictional example; paid export.
 
 ## Research and Transcription
 
