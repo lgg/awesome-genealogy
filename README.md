@@ -60,6 +60,7 @@ Genealogy combines historical research, source evaluation, personal data, and lo
 - [Betty](https://github.com/bartfeenstra/betty) - Static-site generator that turns Gramps and GEDCOM family trees into interactive, encyclopedia-style genealogy websites.
 - [GEDCOM to Visual Map](https://github.com/D-Jeffrey/gedcom-to-visualmap) - Converts GEDCOM place and event data into an interactive geographic visualization.
 - [ged2dot](https://github.com/vmiklos/ged2dot) - Command-line converter that turns GEDCOM data into Graphviz graphs for custom family-tree rendering.
+- [Incarn](https://www.incarn.co/en) - Commercial web service that animates old family photos and ancestor portraits into short lifelike videos, paid per photo.
 - [KinGraph](https://github.com/rstacruz/kingraph) - Small command-line tool that converts a concise YAML family description into SVG, PNG, or Graphviz output.
 - [Topola Genealogy Viewer](https://github.com/PeWu/topola-viewer) - Privacy-friendly interactive GEDCOM and GEDZIP viewer with multiple chart modes and PDF, PNG, and SVG export.
 - [WebTreePrint](https://webtreeprint.com/) - Browser service for generating large printable family-tree charts from GEDCOM files.
