@@ -24,12 +24,13 @@ Genealogy combines historical research, source evaluation, personal data, and lo
 
 These labels describe the resources listed below (reviewed October 2026):
 
-| Label | Meaning |
-| --- | --- |
-| **Open Source** | Software released under an open-source license; source availability is separate from pricing. |
-| **Free** | Core listed functionality or access is available without payment. |
-| **Freemium** | A useful free tier or workflow exists, with paid enhancements, extra usage, exports, or services. |
-| **Paid** | Meaningful use generally requires payment, though trials or previews may exist. |
+**Open Source:** Software released under an open-source license; source availability is separate from pricing.
+
+**Free:** Core listed functionality or access is available without payment.
+
+**Freemium:** A useful free tier or workflow exists, with paid enhancements, extra usage, exports, or services.
+
+**Paid:** Meaningful use generally requires payment, though trials or previews may exist.
 
 Prices, offerings, and availability can change. Self-hosting can incur infrastructure costs, and some archives link to records provided under separate access terms. Absence of an **Open Source** label does **not** prove a resource is closed-source: archives, standards, services, and APIs may not publish software source code. Labels are not attached to the Related Awesome Lists, which index other collections.
 
