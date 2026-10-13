@@ -34,7 +34,7 @@ Use one of `Free`, `Freemium`, or `Paid` for applications and services when poss
 Example:
 
 ```md
-- [Name](https://example.com/) - **Open Source · Freemium** — Short neutral description.
+- [Name](https://example.com/) - `Open Source` `Freemium` — Short neutral description.
 ```
 
 ## Quality Bar
