@@ -76,6 +76,7 @@ Prices, offerings, and availability can change. Self-hosting can incur infrastru
 - [Betty](https://github.com/bartfeenstra/betty) - `Open Source` `Free` — Static-site generator that turns Gramps and GEDCOM family trees into interactive, encyclopedia-style genealogy websites.
 - [ged2dot](https://github.com/vmiklos/ged2dot) - `Open Source` `Free` — Command-line converter that turns GEDCOM data into Graphviz graphs for custom family-tree rendering.
 - [GEDCOM to Visual Map](https://github.com/D-Jeffrey/gedcom-to-visualmap) - `Open Source` `Free` — Converts GEDCOM place and event data into an interactive geographic visualization.
+- [HexMobius Family Charts](https://familyatlas.hexmobius.com/) - `Freemium` — Browser tool that turns a GEDCOM file into a printable ancestor chart, an A3/A2 poster PDF, or overlapping A4 print sheets, with records kept on the device.
 - [KinGraph](https://github.com/rstacruz/kingraph) - `Open Source` `Free` — Small command-line tool that converts a concise YAML family description into SVG, PNG, or Graphviz output.
 - [Topola Genealogy Viewer](https://github.com/PeWu/topola-viewer) - `Open Source` `Free` — Privacy-friendly interactive GEDCOM and GEDZIP viewer with multiple chart modes and PDF, PNG, and SVG export.
 - [WebTreePrint](https://webtreeprint.com/) - `Freemium` — Browser service for generating large printable family-tree charts from GEDCOM files.
