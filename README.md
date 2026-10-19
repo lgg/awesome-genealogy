@@ -74,6 +74,7 @@ Prices, offerings, and availability can change. Self-hosting can incur infrastru
 ## Visualization and Publishing
 
 - [Betty](https://github.com/bartfeenstra/betty) - `Open Source` `Free` — Static-site generator that turns Gramps and GEDCOM family trees into interactive, encyclopedia-style genealogy websites.
+- [Diagram Smith Family Tree Maker](https://diagramsmith.com/family-tree-maker/) - `Free` — Browser tool that lays out partners, children and parents as you add them, imports and exports GEDCOM (names, dates, couples and children; no photos, places or sources), and downloads the tree as PNG, SVG, or PDF.
 - [ged2dot](https://github.com/vmiklos/ged2dot) - `Open Source` `Free` — Command-line converter that turns GEDCOM data into Graphviz graphs for custom family-tree rendering.
 - [GEDCOM to Visual Map](https://github.com/D-Jeffrey/gedcom-to-visualmap) - `Open Source` `Free` — Converts GEDCOM place and event data into an interactive geographic visualization.
 - [KinGraph](https://github.com/rstacruz/kingraph) - `Open Source` `Free` — Small command-line tool that converts a concise YAML family description into SVG, PNG, or Graphviz output.
