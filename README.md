@@ -12,6 +12,7 @@ Genealogy combines historical research, source evaluation, personal data, and lo
 - [Hosted Trees and Research Services](#hosted-trees-and-research-services)
 - [Visualization and Publishing](#visualization-and-publishing)
 - [Research and Transcription](#research-and-transcription)
+- [Geographic and Reference Resources](#geographic-and-reference-resources)
 - [Libraries and Developer Tools](#libraries-and-developer-tools)
 - [GEDCOM and Data Standards](#gedcom-and-data-standards)
 - [APIs and Open Data](#apis-and-open-data)
@@ -82,7 +83,6 @@ Prices, offerings, and availability can change. Self-hosting can incur infrastru
 - [WebTreePrint](https://webtreeprint.com/) - `Freemium` — Browser service for generating large printable family-tree charts from GEDCOM files.
 
 ## Research and Transcription
-- [DialWick](https://dialwick.com/) - `Free` — Free US area-code and ZIP code lookup with plain-language reference pages (useful when locating places in records).
 
 - [eScriptorium](https://gitlab.com/scripta/escriptorium) - `Open Source` `Free` — Open-source platform for segmenting, transcribing, and training handwriting-recognition models on historical documents.
 - [FromThePage](https://github.com/benwbrum/fromthepage) - `Open Source` `Freemium` — Open-source collaborative platform for transcribing handwritten documents with version history, subject indexing, and Internet Archive integration.
@@ -90,6 +90,10 @@ Prices, offerings, and availability can change. Self-hosting can incur infrastru
 - [Transkribus](https://www.transkribus.org/) - `Freemium` — Platform for handwriting recognition, OCR, layout analysis, transcription, and searching of historical documents.
 - [Tropy](https://github.com/tropy/tropy) - `Open Source` `Free` — Desktop research tool for organizing, describing, annotating, and citing photographs of archival materials.
 - [Zotero](https://www.zotero.org/) - `Open Source` `Freemium` — Open-source reference manager for collecting, organizing, annotating, citing, and sharing genealogical sources and research notes.
+
+## Geographic and Reference Resources
+
+- [DialWick](https://dialwick.com/) - `Free` — US area-code and ZIP-code reference for identifying modern geographic locations mentioned in family-history records.
 
 ## Libraries and Developer Tools
 
