@@ -134,6 +134,7 @@ Prices, offerings, and availability can change. Self-hosting can incur infrastru
 - [Internet Archive Genealogy](https://archive.org/details/genealogy) - `Free` — Digitized family histories, local histories, directories, registers, and genealogy periodicals.
 - [Irish Genealogy](https://www.irishgenealogy.ie/) - `Free` — Official Irish government portal providing civil registers, church records, research guidance, and access to digitized record images.
 - [JewishGen](https://www.jewishgen.org/) - `Free` — Nonprofit collection of Jewish genealogy databases, family trees, burial records, Holocaust resources, gazetteers, and research communities.
+- [Les Grands Papiers: Guides de recherche](https://lesgrandspapiers.fr/guides) - `Free` — French-language research guides for French and Belgian civil registration, WWI military records, censuses, notarial and registration series, Napoleonic cadastre, naturalization files, and historical newspapers.
 - [Matricula Online](https://data.matricula-online.eu/) - `Free` — Free portal for digitized church registers and ecclesiastical records from archives across several European countries.
 - [National Archives: Resources for Genealogists](https://www.archives.gov/research/genealogy) - `Free` — United States federal census, military, immigration, land, naturalization, and other research guidance.
 - [Open Archives](https://www.openarch.nl/) - `Freemium` — Search engine for genealogical records published by archives in the Netherlands and Belgium.
