@@ -61,6 +61,7 @@ Prices, offerings, and availability can change. Self-hosting can incur infrastru
 
 ## Hosted Trees and Research Services
 
+- [Ancestral Fire](https://ancestral-fire.com/) - `Freemium` — Family history app that brings in a family from FamilySearch or a GEDCOM file and tells you who they were, with the source behind each fact; also works inside Claude and ChatGPT.
 - [Ancestry](https://www.ancestry.com/) - `Freemium` — Commercial family-tree platform with a large collection of historical records, user trees, hints, and DNA matching.
 - [BillionGraves](https://billiongraves.com/) - `Freemium` — Cemetery database built from GPS-tagged headstone photographs and volunteer transcriptions.
 - [FamilySearch](https://www.familysearch.org/) - `Free` — Free collaborative family tree, digitized record collection, catalog, research wiki, and genealogy learning platform.
