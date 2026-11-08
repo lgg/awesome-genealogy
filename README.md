@@ -101,6 +101,7 @@ Prices, offerings, and availability can change. Self-hosting can incur infrastru
 - [ged4py](https://github.com/andy-z/ged4py) - `Open Source` `Free` — Python library for parsing and querying GEDCOM files with a structured object model.
 - [GEDCOM](https://github.com/tmcw/gedcom) - `Open Source` `Free` — JavaScript parser and command-line toolkit for transforming GEDCOM into easier-to-process data.
 - [GEDCOM 5 Java](https://github.com/FamilySearch/gedcom5-java) - `Open Source` `Free` — Java object model, parser, and writer for GEDCOM 5 data.
+- [gedcom-tools](https://github.com/thememorypalace/gedcom-tools) - `Open Source` `Free` — TypeScript library and CLI that converts GEDCOM 5.5.1 to 7.0 and back, decodes ANSEL and Windows-1252, and checks files for broken links and impossible dates.
 - [Gramps Web API](https://github.com/gramps-project/gramps-web-api) - `Open Source` `Free` — REST API and backend used by Gramps Web for genealogy data, media, authentication, search, and synchronization.
 - [Laravel GEDCOM](https://github.com/liberu-genealogy/laravel-gedcom) - `Open Source` `Free` — Laravel package for importing, exporting, and working with GEDCOM data in PHP applications.
 - [Open Archives MCP Server](https://github.com/coret/openarchieven-mcp-server) - `Open Source` `Free` — MCP, HTTP, and streaming server that exposes Open Archives records, statistics, census data, historical weather, and document transcriptions to AI clients.
