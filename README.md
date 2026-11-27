@@ -171,5 +171,6 @@ Prices, offerings, and availability can change. Self-hosting can incur infrastru
 
 - [Awesome Digital History](https://github.com/maehr/awesome-digital-history) - Tools, methods, datasets, and learning resources for computational and digital historical research.
 - [Awesome GEDCOM](https://github.com/todrobbins/awesome-gedcom) - Specifications, parsers, applications, and utilities centered specifically on GEDCOM.
+- [Awesome Memoir Writing Tools](https://github.com/grades2018/awesome-memoir-writing-tools) - Tools for turning family stories, recorded interviews, and records into a written memoir or life story book.
 - [Awesome Public Datasets](https://github.com/awesomedata/awesome-public-datasets) - Public datasets across many fields, including historical and demographic material useful for contextual research.
 - [Awesome Selfhosted](https://github.com/awesome-selfhosted/awesome-selfhosted) - Free and open-source services that can be hosted on private infrastructure.
